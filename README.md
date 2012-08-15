@@ -1,3 +1,3 @@
 # Readme sencillo
 
-Con texto simple
+Con texto simple y claro
